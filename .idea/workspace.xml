@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76c04099-644d-4d7e-8dd2-490d9542f1e7" name="Default Changelist" comment="" />
+    <list default="true" id="76c04099-644d-4d7e-8dd2-490d9542f1e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/set/CharacterFrequency.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/ListOperation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Mapper.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/RandomNum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Variances.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalaExercises/oop/AdvancedModule$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalaExercises/oop/AdvancedModule$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalaExercises/oop/AdvancedModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalaExercises/oop/Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalaExercises/oop/Change.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalaExercises/oop/TestChange$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalaExercises/oop/TestChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Change.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Change.scala" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +25,21 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TsRzy5yGwTQMIxBz5FFf53HW4J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -40,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestChange">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.Test" />
+  <component name="RunManager" selected="Application.RandomNum">
+    <configuration name="CharacterFrequency" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="set.CharacterFrequency" />
       <module name="scalaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestChange" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.TestChange" />
+    <configuration name="ListOperation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="set.ListOperation" />
       <module name="scalaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCorrespond" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.TestCorrespond" />
+    <configuration name="Mapper" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="set.Mapper" />
       <module name="scalaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFib" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.TestFib" />
+    <configuration name="RandomNum" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="set.RandomNum" />
       <module name="scalaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="work10" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.work10" />
+    <configuration name="Variances" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="set.Variances" />
       <module name="scalaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestChange" />
-        <item itemvalue="Application.TestFib" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.work10" />
-        <item itemvalue="Application.TestCorrespond" />
+        <item itemvalue="Application.RandomNum" />
+        <item itemvalue="Application.CharacterFrequency" />
+        <item itemvalue="Application.Variances" />
+        <item itemvalue="Application.ListOperation" />
+        <item itemvalue="Application.Mapper" />
       </list>
     </recent_temporary>
   </component>
@@ -130,24 +155,45 @@
       <workItem from="1574389705182" duration="1479000" />
       <workItem from="1574391958891" duration="11474000" />
       <workItem from="1574668427429" duration="146000" />
+      <workItem from="1574691156286" duration="228000" />
+      <workItem from="1574765821470" duration="2213000" />
+      <workItem from="1575163555255" duration="7000" />
+      <workItem from="1575362658895" duration="5757000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/oop/Change.scala</url>
-          <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/oop/Change.scala</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/oop/Change.scala</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
